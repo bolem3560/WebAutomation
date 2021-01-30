@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WEB Automation Test Report">
+	<test name="AutomationTestReport">
+		<classes>
+			<class name="com.testautomation.testrunner.TestRunner" />
+		</classes>
+	</test>
+
+
+	<listeners>
+		<listener class-name="com.testautomation.listeners.ITestListenerImpl"></listener>
+	</listeners>
+
+</suite> 
